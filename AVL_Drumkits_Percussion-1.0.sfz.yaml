@@ -1,0 +1,1536 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/36-CajonCenter-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/36-CajonCenter-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/36-CajonCenter-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/36-CajonCenter-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/36-CajonCenter-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/37-Woodblock-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/37-Woodblock-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/37-Woodblock-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/37-Woodblock-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/37-Woodblock-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/38-CajonEdge-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/38-CajonEdge-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/38-CajonEdge-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/38-CajonEdge-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/38-CajonEdge-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-32'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/39-Handclap-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/39-Handclap-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/39-Handclap-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/39-Handclap-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/39-Handclap-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '32'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/40-Fingersnap-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/40-Fingersnap-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/40-Fingersnap-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/40-Fingersnap-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/40-Fingersnap-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/41-BongoLo-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/41-BongoLo-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/41-BongoLo-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/41-BongoLo-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/41-BongoLo-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/42-Maraca-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/42-Maraca-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/42-Maraca-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/42-Maraca-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/42-Maraca-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/43-BongoHi-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/43-BongoHi-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/43-BongoHi-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/43-BongoHi-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/43-BongoHi-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-48'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/44-Tambourine-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/44-Tambourine-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/44-Tambourine-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/44-Tambourine-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/44-Tambourine-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/45-Cowbell-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/45-Cowbell-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/45-Cowbell-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/45-Cowbell-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/45-Cowbell-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-63'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/46-Claves-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/46-Claves-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/46-Claves-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/46-Claves-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/46-Claves-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/47-WaterglassLo-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/47-WaterglassLo-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/47-WaterglassLo-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/47-WaterglassLo-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/47-WaterglassLo-5.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lochan
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hichan
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/48-WaterglassHi-1.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/48-WaterglassHi-2.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/48-WaterglassHi-3.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/48-WaterglassHi-4.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples/48-WaterglassHi-5.ogg
+
